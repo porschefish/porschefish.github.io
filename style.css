@@ -1,0 +1,20 @@
+body, html {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	background-image: url("lukas-blazek-261682-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-weight: bold;
+	text-align: center;
+}
